@@ -1,2 +1,3 @@
 # q4
-Quoted Forth
+
+Completely imcomplete Forth-like language.
